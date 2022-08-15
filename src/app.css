@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Montserrat",sans-serif;
+
+}
+:root{
+  --textCol:rgb(243, 240, 240);
+  --scoreCol: rgb(214, 201, 201);
+}
+body{
+  background-color: #242424;
+}
